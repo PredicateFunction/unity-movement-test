@@ -1,6 +1,0 @@
-# Ignore everything except Assets and ProjectSettings folders
-/*
-
-!/.gitignore
-!/Assets/
-!/ProjectSettings/
