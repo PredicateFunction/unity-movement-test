@@ -8,7 +8,6 @@ UserSettings/
 MemoryCaptures/
 .logs/
 
-.vscode/
 *.csproj
 *.unityproj
 *.sln
