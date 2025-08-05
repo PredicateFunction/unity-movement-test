@@ -945,7 +945,7 @@ MonoBehaviour:
   leanTransform: {fileID: 564849809}
   attackDamping: 0.5
   decayDamping: 0.3
-  leanStrength: 0.075
+  leanStrength: 0.17
 --- !u!4 &1635493859
 Transform:
   m_ObjectHideFlags: 0
