@@ -1,5 +1,9 @@
 ## basic character controller in unity
 
+in case u wanna test it out, it's on the releases page
+
+no idea how to properly setup a unity project
+
 first unity project hence it's simple
 
 **allowing for**
@@ -10,6 +14,3 @@ first unity project hence it's simple
   * Jump (Space : press) 
 
 
-in case u wanna test it out, it's on the releases page
-
-no idea how to properly setup a unity project
